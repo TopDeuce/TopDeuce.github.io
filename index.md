@@ -1,4 +1,4 @@
-% Top Deuce
+title: Top Deuce
 
 # Support or Contact
 
